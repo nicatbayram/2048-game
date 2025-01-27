@@ -82,9 +82,9 @@ If you’d like to contribute to this project, feel free to submit a **pull requ
 
 ## ScreenShots
 
-<img width="350" alt="d1" src="https://github.com/user-attachments/assets/db9de51c-4077-4eb5-aa46-ff3c4dca8dd4" />
-<img width="350" alt="d2" src="https://github.com/user-attachments/assets/8d62149a-607a-4487-bdd7-60e864d2e05b" />
-<img width="350" alt="d3" src="https://github.com/user-attachments/assets/857244c9-8edb-4a07-835a-f6520c33b8e0" />
-<img width="350" alt="d4" src="https://github.com/user-attachments/assets/e5b14faf-18e1-4cce-956a-fc97812e3a76" />
-<img width="350" alt="d5" src="https://github.com/user-attachments/assets/410ba02f-16ed-4a2f-a489-87c431732b39" />
-<img width="350" alt="d6" src="https://github.com/user-attachments/assets/a5783923-e110-4ac4-8c9f-f2c07c1ca286" />
+<img width="300" alt="d1" src="https://github.com/user-attachments/assets/db9de51c-4077-4eb5-aa46-ff3c4dca8dd4" />
+<img width="300" alt="d2" src="https://github.com/user-attachments/assets/8d62149a-607a-4487-bdd7-60e864d2e05b" />
+<img width="300" alt="d3" src="https://github.com/user-attachments/assets/857244c9-8edb-4a07-835a-f6520c33b8e0" />
+<img width="300" alt="d4" src="https://github.com/user-attachments/assets/e5b14faf-18e1-4cce-956a-fc97812e3a76" />
+<img width="300" alt="d5" src="https://github.com/user-attachments/assets/410ba02f-16ed-4a2f-a489-87c431732b39" />
+<img width="300" alt="d6" src="https://github.com/user-attachments/assets/a5783923-e110-4ac4-8c9f-f2c07c1ca286" />
